@@ -1,0 +1,12 @@
+.title {
+  text-align: center;
+}
+
+.Searcher {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App {
+}
